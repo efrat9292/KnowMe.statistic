@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Thu Mar 04 2021 10:22:57 GMT+0200 (שעון ישראל (חורף))
+------------------------------------------------------
+
+Modified files:
+* KnowMe.page-Dev-client
+* Knowme.page-Dev-Server
+
+
+Created files:
+* .autogit/logs/log-3-2-2021-13-19-25.txt
+
+
+Deleted files:
+
+
+Renamed files:
